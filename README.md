@@ -1,5 +1,5 @@
 # Mini Hack Cohort 1 — Payments on Avalanche
-> Team1 Kenya | 2026 | Technical Lead: Joseph Njoroge (Scotch)
+> Team1 Kenya | 2026 | Technical Lead: Joseph Njoroge (Scotch) TEST CHANGE
 
 [![Status](https://img.shields.io/badge/Cohort%201-Active-e84142?style=flat-square)](https://team1-kenya-mini-hack.vercel.app)
 [![Network](https://img.shields.io/badge/Network-Avalanche%20Fuji-e84142?style=flat-square)](https://testnet.snowtrace.io)
