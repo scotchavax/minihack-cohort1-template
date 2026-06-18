@@ -307,3 +307,4 @@ Post in Discord `#help` with: what you are trying to do, what you tried, and the
 Office hours: Thursdays 6:00 PM to 7:00 PM EAT on Discord voice — before the main session.
 
 Tag `@scotch` on Discord only after posting in `#help` and not getting an answer within a reasonable time.
+test
